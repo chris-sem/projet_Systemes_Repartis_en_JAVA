@@ -11,5 +11,5 @@ Tout cela, via une interface graphique réalisée grace à l'API Java Swing
 Le projet est codé avec Java 8
 
 Via netbeans par exemple :
-+ Lancer l'application serveur
-+ Et ensuite lancer le client 
++ Lancer l'application serveur (monServeur)
++ Et ensuite lancer le client  (projetSR)
